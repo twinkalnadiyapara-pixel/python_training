@@ -1,0 +1,19 @@
+{
+    "11": {
+        "em_name": "twinkal",
+        "em_email": "twinkal@gmail.com",
+        "em_department": "it",
+        "em_salary": 15000,
+        "em_experience": 4,
+        "em_performance": 4
+    },
+    "12": {
+        "em_id": 12,
+        "em_name": "nidhi",
+        "em_email": "nidhi@gmail.com",
+        "em_department": "doctor",
+        "em_salary": 20000,
+        "em_experience": 3,
+        "em_performance": 3
+    }
+}
